@@ -1,0 +1,29 @@
+﻿[
+  {
+    "HoTen": "Nguyen haha",
+    "MSSV": 25520000,
+    "DienThoai": "0123456789",
+    "DiemMon1": 7.5,
+    "DiemMon2": 8.0,
+    "DiemMon3": 9.0,
+    "DiemTrungBinh": 0.0
+  },
+  {
+    "HoTen": "Tran hihi",
+    "MSSV": 25520001,
+    "DienThoai": "0987654321",
+    "DiemMon1": 8.5,
+    "DiemMon2": 8.0,
+    "DiemMon3": 8.5,
+    "DiemTrungBinh": 0.0
+  },
+  {
+    "HoTen": "Le hoho",
+    "MSSV": 25520003,
+    "DienThoai": "0912345678",
+    "DiemMon1": 6.0,
+    "DiemMon2": 7.0,
+    "DiemMon3": 6.5,
+    "DiemTrungBinh": 0.0
+  }
+]
